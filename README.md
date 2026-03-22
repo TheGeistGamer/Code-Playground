@@ -1,4 +1,4 @@
-# 🧪 Dev Playground
+# 🧪 Code Playground
 
 This repository is a personal collection of small projects, experiments, and exercises created while learning different programming languages and technologies.
 
